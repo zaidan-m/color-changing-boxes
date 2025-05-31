@@ -1,0 +1,17 @@
+body{
+text-align:center;
+padding:50px;
+font-family: "Fascinate", system-ui;
+font-weight: 400;
+font-style: normal;
+background-color:white;
+transition:background-color 0.5s;
+}
+button{
+font-size:20px;
+padding:10px 20px;
+border-radius:10px
+}
+button:hover{
+background-color:#B6B09F;
+}
